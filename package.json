@@ -1,0 +1,34 @@
+{
+  "name": "@coreops/nimbus",
+  "version": "1.0.3",
+  "description": "Framework UI JavaScript puro para interfaces de sistemas internos. Zero dependências, sem etapa de build.",
+  "main": "index.js",
+  "types": "nimbus.d.ts",
+  "files": [
+    "index.js",
+    "nimbus.d.ts",
+    "README.md"
+  ],
+  "keywords": [
+    "nimbus",
+    "ui",
+    "framework",
+    "javascript",
+    "zero-dependencies",
+    "window-manager",
+    "grid",
+    "form",
+    "toolbar",
+    "sistemas-internos"
+  ],
+  "author": "Gabriel Sari <gabriel@coreops.dev>",
+  "license": "MIT",
+  "homepage": "https://nimbusjs.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coreops/nimbus"
+  },
+  "bugs": {
+    "url": "https://github.com/coreops/nimbus/issues"
+  }
+}
