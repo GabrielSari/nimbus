@@ -6,7 +6,7 @@ Zero dependências. Sem etapa de build. Componha com propósito. Escale com clar
 > Não é um wrapper de Vue, React ou qualquer outro framework.  
 > JavaScript puro. Nenhuma dependência de runtime. Funciona direto no navegador.
 
-🌐 [nimbusjs.org](https://nimbusjs.org) &nbsp;·&nbsp; 📦 v0.1.0-alpha &nbsp;·&nbsp; MIT
+🌐 [nimbusjs.org](https://nimbusjs.org) &nbsp;·&nbsp; [![npm](https://img.shields.io/npm/v/@coreops/nimbus?label=npm&color=cb3837)](https://www.npmjs.com/package/@coreops/nimbus) &nbsp;·&nbsp; MIT &nbsp;·&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-GabrielSari%2Fnimbus-181717?logo=github)](https://github.com/GabrielSari/nimbus)
 
 ---
 
