@@ -1,6 +1,6 @@
 {
   "name": "@coreops/nimbus",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Framework UI JavaScript puro, zero dependências e zero build step, para interfaces de sistemas internos.",
   "main": "index.js",
   "types": "nimbus.d.ts",
